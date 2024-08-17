@@ -1,2 +1,6 @@
 # moto_phone
-A cad moto phone model
+
+# Description
+A model of my Moto phone made in CAD
+
+# Videos of my project
