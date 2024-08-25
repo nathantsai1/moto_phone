@@ -11,4 +11,14 @@ https://github.com/user-attachments/assets/e7636919-d9d7-4d4a-9b75-4cabcb63c757
 # features
 * a built in 'phone'
 * a phone case, complete with small grooves
-* 
+* A theoretical charger
+
+# why I built this
+* I had a lot of time, and wanted to learn how to use CAD
+* Because I could
+
+# how to use
+Import .STEP file for CAD and changing features.
+Import .STL file for CAD printing.
+
+I hope you like it!
